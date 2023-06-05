@@ -2,7 +2,7 @@
 
 ## Egyedi címkéző rendszer backend
 
-# Funkciói:
+### Funkciói:
 - Felhasználókezelés
 - Szinkronizálás a háttérrendszerrel
 - Termékkategória kezelés
@@ -11,7 +11,7 @@
 - Szavazatok kezelése
 - Szemantikus Címkéző Algoritmus szerinti címkekiosztás
 
-# Követelmények 
+### Követelmények 
 - Wildfly 25
 - Postgresql 11
 - Java 11
